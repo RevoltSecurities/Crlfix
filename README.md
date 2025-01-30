@@ -7,6 +7,12 @@
 ## Overview:  
 Crlfix is an advanced CRLF injection vulnerability scanner designed for penetration testers and security researchers. It efficiently detects CRLF injection points in web applications while offering high concurrency and customization options.  
 
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/2992e83b-879b-41f8-8f69-c8deaf480772" width="700px">
+  <br>
+</h1>
+
+
 ## Features:
 
 ✅ **Accurate Scanning** – Detects CRLF injection points effectively.  
